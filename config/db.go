@@ -1,3 +1,5 @@
+// This file contains database configuration with intentional security vulnerabilities
+// for educational purposes. DO NOT use in production environments.
 package config
 
 import (
